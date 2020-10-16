@@ -5,6 +5,6 @@
     },
     "scripts": {
         "start": "node index.js",
-        "dev": "nodemon --inspect-brk=0.0.0.0 index.js"
+        "dev": "nodemon"
     }
 }
